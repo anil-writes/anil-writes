@@ -14,7 +14,7 @@ I specialize in building high-performance websites and sharing data-driven SEO s
 - [🌐 Hosting Guide & Discounts](https://hostinger.in?REFERRALCODE=WEBPRO2025) - High-performance hosting setups I personally use.
 
 ### 📫 Connect with Me
-- **Instagram:** [Your Instagram Link]
+- **Instagram:** [@travelkarma_]([url](https://instagram.com/travelkarma_))
 - **YouTube:** [Your YouTube Link]
 - **Email:** anil.27788@gmail.com
 
