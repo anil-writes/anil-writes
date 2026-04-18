@@ -15,7 +15,8 @@ I specialize in building high-performance websites and sharing data-driven SEO s
 
 ### 📫 Connect with Me
 - **Instagram:** [@travelkarma_](https://instagram.com/travelkarma_)
-- **YouTube:** [Your YouTube Link]
+- **YouTube:** [@TravelKarma](https://www.youtube.com/@TravelKarma)
+- **Linkedin:** [Anil Vishwakarma](https://www.linkedin.com/in/anil-vishwakarma94/)
 - **Email:** anil.27788@gmail.com
 
 ---
