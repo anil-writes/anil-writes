@@ -1,6 +1,6 @@
 # Hi there, I'm Anil Vishwakarma 👋
 
-Digital Creator | SEO Specialist | Web Performance Enthusiast
+[![Digital Creator](https://img.shields.io/badge/Digital%20Creator-blue?logo=contentful)](#) | [![SEO Specialist](https://img.shields.io/badge/SEO%20Specialist-blue?logo=google-search-console)](#) | [![Web Performance](https://img.shields.io/badge/Web%20Performance%20Enthusiast-blue?logo=speedtest)](#)
 
 I specialize in building high-performance websites and sharing data-driven SEO strategies to help creators and businesses grow their digital footprint.
 
