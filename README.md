@@ -11,7 +11,7 @@ I specialize in building high-performance websites and sharing data-driven SEO s
 
 ### 📚 My Top Resources
 - [🛡️ Ultimate SEO Audit Checklist](https://github.com/anil-writes/ultimate-seo-audit-checklist) - My personal framework for ranking websites.
-- [🌐 Hosting Guide & Discounts](https://hostinger.in?REFERRALCODE=WEBPRO2025) - High-performance hosting setups I personally use.
+- [🌐 Hosting Guide & Discounts](https://github.com/anil-writes/Hostinger-Guides/) - High-performance hosting setups I personally use.
 
 ### 📫 Connect with Me
 - **Instagram:** [@travelkarma_](https://instagram.com/travelkarma_)
